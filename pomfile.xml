@@ -20,7 +20,7 @@
   <repository>
   <id>deployment</id>
   <name>Internal Releases1</name>
-  <url>http://54.171.140.16:8081/nexus/content/repositories/releases/</url>
+  <url>http://54.171.140.167:8081/nexus/content/repositories/releases/</url>
   </repository>
  
   <snapshotRepository>
