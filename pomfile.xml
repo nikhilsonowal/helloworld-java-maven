@@ -40,7 +40,7 @@
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://54.171.181.49:8085/nexus/content/repositories/hsbc.alm.nikhil-snapshot/</url>
+<url>http://54.171.181.49:8081/nexus/content/repositories/hsbc.alm.nikhil-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
 
